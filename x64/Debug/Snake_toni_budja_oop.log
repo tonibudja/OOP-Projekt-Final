@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\toni\Desktop\OOP-Projekt-Final-main 123\OOP-Projekt-Final-main\Snake_toni_budja_oop\Game.cpp(79,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Snake_toni_budja_oop.vcxproj -> C:\Users\toni\Desktop\OOP-Projekt-Final-main 123\OOP-Projekt-Final-main\x64\Debug\Snake_toni_budja_oop.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
